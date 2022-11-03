@@ -6,13 +6,24 @@
 - 💻 I typically use the following technologies:
 
 ➡️ Linux/BASH
+
 ➡️➡️ Cell Ranger
+
 ➡️ Python
+
 ➡️➡️ Biopython
+
 ➡️➡️ Scanpy
+
 ➡️ R
+
 ➡️➡️ Seurat
+
 🥕 SAMTools
+
 🥕 STAR
+
 🥕 BLAST
+
 🥕 FASTQC
+
