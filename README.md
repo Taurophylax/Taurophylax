@@ -3,7 +3,7 @@
 - 🔬 interested in science, technology, movies, games, oxford commas, and
 - 🦍 currently learning differential gene expression and
 - 🧬 looking to collaborate on omics tools and 
-- 💻 I typically use the following technologies:
+- 💻 I typically use the following technologies ⤵️
 
 ➡️ Linux/BASH
 
