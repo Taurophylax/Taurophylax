@@ -27,3 +27,4 @@
 
 🥕 FASTQC
 
+bio.close()
